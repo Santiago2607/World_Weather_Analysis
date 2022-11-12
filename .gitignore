@@ -2,9 +2,12 @@
 # Adding config.py file.
 config.py
 # Adding additional files
+Google_Nearby_Search.ipynb
 API_Practice.ipynb
 Random_Numbers.ipynb
 weather_data.ipynb
+Test1.ipynb
+Untitled.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
